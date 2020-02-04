@@ -31,7 +31,7 @@ const people = [
     {
         name: 'Reginald Ford',
         avatar: 'https://randomuser.me/api/portraits/men/1.jpg',
-        online: true,
+        online: false,
     },
     {
         name: 'Gail Berry',
